@@ -1,0 +1,14 @@
+h1{
+    color: antiquewhite;
+    background-color: black;
+    text-align: center;
+}
+
+input{
+    font-size: 50px;
+}
+
+.fixform{
+    display: inline;
+    padding: 100px;
+}
